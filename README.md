@@ -1,4 +1,4 @@
-### Hi there 👋
+### Meine Reise nach Computer Feld hat in 1990  angefangen,als ich 18 Jahre war.👋
 
 <!--
 **ShahiSasan/ShahiSasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
